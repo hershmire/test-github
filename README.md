@@ -1,1 +1,1 @@
-Test Github merging stoof
+Test Github squash and commit
