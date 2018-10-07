@@ -1,1 +1,1 @@
-Test Github rebase and commit
+Test Github merge and commit
