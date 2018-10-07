@@ -1,1 +1,1 @@
-Test Github squash and commit
+Test Github rebase and commit
